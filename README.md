@@ -1,4 +1,4 @@
-Este repositório contém a implementação de diferentes algoritmos de ordenação desenvolvidos como parte da disciplina de Projeto de Algoritmos. O programa permite ao usuário escolher entre os algoritmos Insertion Sort, Selection Sort, Shell Sort, Bubble Sort e Merge Sort**, além de selecionar diferentes tamanhos de entrada e tipos de ordenação inicial (crescente, decrescente ou aleatória). O objetivo deste projeto é comparar o desempenho de diferentes algoritmos de ordenação aplicados a conjuntos de dados de tamanhos variados e com diferentes distribuições iniciais.
+Este repositório contém a implementação de diferentes algoritmos de ordenação desenvolvidos como parte da disciplina de Projeto de Algoritmos. O programa permite ao usuário escolher entre os algoritmos Insertion Sort, Selection Sort, Shell Sort, Bubble Sort e Merge Sort, além de selecionar diferentes tamanhos de entrada e tipos de ordenação inicial (crescente, decrescente ou aleatória). O objetivo deste projeto é comparar o desempenho de diferentes algoritmos de ordenação aplicados a conjuntos de dados de tamanhos variados e com diferentes distribuições iniciais.
 
 Como Compilar e Executar: 
 
